@@ -11,4 +11,5 @@ Standard scaling, cross-validation method, Grid Search, metric measurements such
 
 In terms of simplicity, we can say Logistic Regression provided high predictive results and at the same time it is the simplest and fastest Model in terms of parameters and training but if we look to other models like KNN it is providing the best results, but it is slower in terms of prediction process because it requires to calculate the distance between all the points in the dataset to classify every single point.​
 ​
+
 XGBoost performance was very good as well but in contrast of KNN it takes longer time in the training process since we used grid search technique to search about best fitting parameters, so at the end it is a tradeoff if we have bigger dataset then the performance will be higher with such models, but the training process will take a longer time.​
